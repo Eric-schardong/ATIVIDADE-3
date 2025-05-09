@@ -1,0 +1,12 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		inteiro idade = 21
+		se(idade>=18){
+    escreva("maior de idade")
+    //esse codigo confere se a variavel idade e igual ou maior que 18 e diz "maior de idade" se for verdadeiro
+    }
+	}
+}
