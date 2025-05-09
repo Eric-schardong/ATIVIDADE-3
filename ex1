@@ -1,0 +1,9 @@
+programa
+{
+	
+	funcao inicio()
+	{
+  //esse codigo escreve "Olá Mundo" na barra de console do portugol
+  escreva("Olá Mundo")
+	}
+}
