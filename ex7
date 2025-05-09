@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+ //esse codigo cria a variavel cont com o valor 5 e tira 1 de seu valor enquanto ainda for maior que 0
+		inteiro cont = 5
+		enquanto(cont>0){
+		escreva(cont, "\n")
+		cont = cont - 1
+		}
+	}
+}
