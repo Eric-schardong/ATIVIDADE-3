@@ -1,0 +1,10 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo \n")
+		escreva("Como vai")
+    //agora temos o \n que adiciona uma nova linha
+	}
+}
