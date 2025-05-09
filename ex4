@@ -1,0 +1,13 @@
+programa
+{
+	
+	funcao inicio()
+	{
+    //cria a variavel nome
+		cadeia nome
+    //pergunta e le um valor que sera dado a variavel nome
+		leia(nome)
+    //escreve a variavel nome
+    escreva(nome)
+	}
+}
