@@ -1,0 +1,10 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		escreva("Olá Mundo")
+		escreva("Como vai")
+    //esse codigo assim como o do primeiro exercicio escreve na barra de console, porem agora tambem temos o "Como vai"
+	}
+}
