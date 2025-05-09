@@ -1,0 +1,16 @@
+programa
+{
+	funcao inicio()
+	{
+		escreva(123, "\n")
+    escreva(100 + 200, "\n")
+    escreva("100 + 200")
+	}
+}
+
+a) esse codigo escreve:
+"123
+300
+100 + 200"
+
+b) enquanto na linha 6 o 100 + 200 nao esta entre aspas, o da linha 7 esta, fazendo com que ele seja reconhecido como um texto
